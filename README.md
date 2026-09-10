@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANSHUL CHOUDHARI</h1>
 <h3 align="center">Full-Stack Developer passionate about productivity tools & responsive web apps | MERN (MongoDB, Express, React, Node) • Java</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshulchaudhari001&color=007ec6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
 - 🔭 I’m currently working on [DevTrack (a developer productivity and task tracking suite)](https://github.com/anshulchaudhari001/DevTrack-Project)
 - 🌱 I’m currently learning **Deep Dive in AI, Cloud deployment, distributed systems, and system design**
 - 👯 I’m looking to collaborate on **Full-stack MERN web applications and open-source developer tooling**
